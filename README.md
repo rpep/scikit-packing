@@ -20,7 +20,7 @@ rather than having complex dependencies.
 * Circle packing
 * Rectangle packing
 * Knapsack packing
-
+* Rebuild in C/Cython with parallelism
 
 ## Contributing
 
